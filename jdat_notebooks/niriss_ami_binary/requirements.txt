@@ -10,3 +10,4 @@ uncertainties
 munch
 astroquery
 termcolor
+git+https://github.com/SydneyAstrophotonicInstrumentationLab/AMICAL.git@36a5a2b520eff2f3ef3c8551f31735650ae72900
